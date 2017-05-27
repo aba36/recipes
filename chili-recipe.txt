@@ -1,4 +1,5 @@
 Ingredients:
+JS: line added from 2nd clone
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
